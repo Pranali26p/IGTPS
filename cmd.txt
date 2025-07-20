@@ -1,0 +1,8 @@
+1. git clone https://github.com/Pranali26p/IGTPS.git -  copy project
+2. git branch - check branch
+3. git branch feature(new branch) - create branch
+4. git checkout feature - switch to new branch
+5. git add .  - save changes
+6. git commit -m "cmd file added" - to keep tack of each stages by commit msg 
+7. git push origin feature/cmd-addition  - push to oringinal repo with branch feature
+
