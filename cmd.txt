@@ -1,0 +1,5 @@
+1. git clone https://github.com/Pranali26p/IGTPS.git -  copy project
+2. git branch - check branch
+3. git branch feature(new branch) - create branch
+4. git checkout feature - switch to new branch
+5. 
